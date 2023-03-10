@@ -1,0 +1,43 @@
+.mainBlock{
+    border: 2px solid red;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{margin-top: 10px;font-size: 24px;}
+h2{margin-top:-13px;font-size: 22px;}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+.parentBlock1{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:black;
+    color: white;
+}
+.parentBlock2{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:aquamarine;
+}
+.parentBlock3{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: azure;
+}
+.parentBlock4{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:palegreen;
+}
+.heading{
+    font-size: 37px;
+    font-style: italic;
+    text-align: center;
+    font-weight:bolder;
+}
+.mainParent{background-color: red;}

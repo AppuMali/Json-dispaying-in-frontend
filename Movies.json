@@ -1,0 +1,190 @@
+[
+    {
+        "Directed_by" : "Pavan Wadeyar",
+        "Produced_by" : "Jayanna Bhogendra",
+        "Actor" : "Yash",
+        "Actress" : "Kriti Kharbanda",
+        "Music_by" : "Anoop Seelin",
+        "Release_date" : "19 July 2013",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/3/3e/Googly_2013_Kannada_Film.jpg"
+    },
+
+    {
+        "Directed_by" : "Prashanth Neel",
+        "Produced_by" : "Vijay Kiragandur",
+        "Actor" : "Yash",
+        "Actress" : "Srinidhi Shetty",
+        "Music_by" : "Ravi Basrur",
+        "Release_date" : "21 December 2018",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/K.G.F_Chapter_1_poster.jpg/220px-K.G.F_Chapter_1_poster.jpg"
+    },
+    
+    {
+        "Directed_by" : "Puri Jagannadh",
+        "Produced_by" : "M. S. Ramesh",
+        "Actor" : "Puneeth Rajkumar",
+        "Actress" : "Rakshita",
+        "Music_by" : "Gurukiran",
+        "Release_date" : "26 April 2002",
+        "Movie_photo" : "http://v3img.voot.com/v3Storage/assets/appu%20-%2016x9-1666882326312.jpg"
+    },
+    {
+        "Directed_by" : "Santhosh Ananddram",
+        "Produced_by" : "Jayanna Bhogendra",
+        "Actor" : "Yash",
+        "Actress" : "Radhika Pandit",
+        "Music_by" : "V. Harikrishna",
+        "Release_date" : "25 December 2014",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/d/d2/2014_Kannada_film_Mr._and_Mrs._Ramachari_poster.jpg"
+    },
+    {
+        "Directed_by" : "Guru Deshpande",
+        "Produced_by" : "K. Manju",
+        "Actor" : "Yash",
+        "Actress" : "Meghana Raj",
+        "Music_by" : "Hamsalekha",
+        "Release_date" : "1 November 2013",
+        "Movie_photo" : "https://wallpapers.oneindia.com/ph-1024x768/2013/10/raja-huli-wallpaper_1383118737110.jpg"
+    },
+    {
+        "Directed_by" : "Pradeep Raj",
+        "Produced_by" : "Sharavana Murthy",
+        "Actor" : "Yash",
+        "Actress" : "Oviya",
+        "Music_by" : "V. Manohar",
+        "Release_date" : "24 June 2011",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/a/a9/2011_Kannada_film_Kirathaka_poster.jpeg"
+    },
+    {
+        "Directed_by" : "Santhosh Ananddram",
+        "Produced_by" : "Vijay Kiragandur",
+        "Actor" : "Puneeth Rajkumar",
+        "Actress" : "Priya Anand",
+        "Music_by" : "V. Harikrishna",
+        "Release_date" : "24 March 2017",
+        "Movie_photo" : "https://bestoftheyear.in/wp-content/uploads/2017/06/Raajakumaraa-poster.jpg"
+    },
+    {
+        "Directed_by" : "Santhosh Ananddram",
+        "Produced_by" : "Vijay Kiragandur",
+        "Actor" : "Puneeth Rajkumar",
+        "Actress" : "Sayyeshaa",
+        "Music_by" : "Thaman S",
+        "Release_date" : "1 April 2021",
+        "Movie_photo" : "https://static.toiimg.com/thumb/msid-68387961,width-219,height-317,imgsize-84855/68387961.jpg"
+    },
+    {
+        "Directed_by" : "Tharun sudhir",
+        "Produced_by" : "Umapathy Srinivasa Gowda",
+        "Actor" : "Darshan",
+        "Actress" : "Asha Bhat",
+        "Music_by" : "Arjun Janya",
+        "Release_date" : "11 March 2021",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/0/06/Roberrt-movies-poster.jpg"
+    },
+    {
+        "Directed_by" : "V.Harikrishna",
+        "Produced_by" : "B. Suresha",
+        "Actor" : "Darshan",
+        "Actress" : "Rachita Ram",
+        "Music_by" : "V. Harikrishna",
+        "Release_date" : "26 January 2023",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/6/67/Kranti_film_poster.jpg"
+    },
+    {
+        "Directed_by" : "Anup Bhandari",
+        "Produced_by" : "Shalini Manjunath",
+        "Actor" : "Sudeepa",
+        "Actress" : "Neetha Ashok",
+        "Music_by" : "B. Ajaneesh Loknath",
+        "Release_date" : "26 January 2023",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/5/51/Vikrant_Rona.jpeg"
+    },
+    {
+        "Directed_by" : "S. Krishna",
+        "Produced_by" : "Raghunath",
+        "Actor" : "Sudeep",
+        "Actress" : "Amala Paul",
+        "Music_by" :"Arjun Janya",
+        "Release_date" : "23 February 2017",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/f/fc/Hebbuli_poster.jpg"
+    },
+    {
+        "Directed_by" : "Sudeep",
+        "Produced_by" : "Shankar Gowda",
+        "Actor" : "Sudeep",
+        "Actress" : "Ragini Dwivedi",
+        "Music_by" :"Arjun Janya",
+        "Release_date" : "10 March 2011",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/9/9c/Kempe_Gowda_film_poster.jpg"
+    },
+    {
+        "Directed_by" : "Jayatheertha",
+        "Produced_by" : "Santhosh Kumar K. C.",
+        "Actor" : "Sudeep",
+        "Actress" : "Hariprriya",
+        "Music_by" :"K. M. Prakash",
+        "Release_date" : "15 February 2019",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/e/ed/Bell_Bottom_poster.jpg"
+    },
+    {
+        "Directed_by" : "Rishab Shetty",
+        "Produced_by" : "Rishab Shetty",
+        "Actor" : "Rishab Shetty",
+        "Actress" : "Hariprriya",
+        "Music_by" :"Vasuki Vaibhav",
+        "Release_date" : "24 August 2018",
+        "Movie_photo" : "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sarkari-hi-pra-shale-kasaragodu,-koduge--ramanna-rai-et00081391-29-10-2020-05-44-48.jpg"
+    },
+    {
+        "Directed_by" : "Rishab Shetty",
+        "Produced_by" : "Vijay Kiragandur",
+        "Actor" : "Rishab Shetty",
+        "Actress" : "Sapthami Gowda",
+        "Music_by" :"B. Ajaneesh Loknath",
+        "Release_date" : "30 September 2022",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Kantara_poster.jpeg/220px-Kantara_poster.jpeg"
+    },
+    {
+    "Directed_by" : "Kiranraj K.",
+    "Produced_by" : "G. S. Gupta",
+    "Actor" : "Rakshit Shetty",
+    "Actress" : "Sangeetha Sringeri",
+    "Music_by" :"Nobin Paul",
+    "Release_date" : "10 June 2022",
+    "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/1/19/777_Charlie_official_poster.jpg"
+    },
+    {
+        "Directed_by" : "Sachin B. Ravi",
+        "Produced_by" : "Pushkara M.",
+        "Actor" : "Rakshit Shetty",
+        "Actress" : "Shanvi Srivastava",
+        "Music_by" :"B. Ajaneesh Loknath",
+        "Release_date" : "27 December 2019",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/0/09/Avane_Srimannarayana_poster.jpg"
+    },
+    {
+        "Directed_by" : "Rakshit Shetty",
+        "Produced_by" : "G. S. Guptha",
+        "Actor" : "Rakshit Shetty",
+        "Actress" : "Rashmika Mandanna",
+        "Music_by" :"B. Ajaneesh Loknath",
+        "Release_date" : "30 December 2016",
+        "Movie_photo" : "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kirik-party-et00050740-20-11-2020-03-14-08.jpg"
+    },
+    {
+        "Directed_by" : "Harsha",
+        "Produced_by" : "Geeta Shiva Rajkumar",
+        "Actor" : "Shiva Rajkumar",
+        "Actress" : "Ganavi Laxman",
+        "Music_by" :"Arjun Janya",
+        "Release_date" : "23 December 2022",
+        "Movie_photo" : "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-1z5294925/portrait/1920x770337df68158c84481bd099627a2108594.jpg"
+    }
+    
+
+    
+    
+    
+    
+]
