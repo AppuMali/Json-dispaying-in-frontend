@@ -1,0 +1,108 @@
+[
+    {
+        "Directed_by" : "Pavan Wadeyar",
+        "Produced_by" : "Jayanna Bhogendra",
+        "Actor" : "Yash",
+        "Actress" : "Kriti Kharbanda",
+        "Music_by" : "Anoop Seelin",
+        "Release_date" : "19 July 2013",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/3/3e/Googly_2013_Kannada_Film.jpg"
+    },
+
+    {
+        "Directed_by" : "Prashanth Neel",
+        "Produced_by" : "Vijay Kiragandur",
+        "Actor" : "Yash",
+        "Actress" : "Srinidhi Shetty",
+        "Music_by" : "Ravi Basrur",
+        "Release_date" : "21 December 2018(India)",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/K.G.F_Chapter_1_poster.jpg/220px-K.G.F_Chapter_1_poster.jpg"
+    },
+    
+    {
+        "Directed_by" : "Prashanth Neel",
+        "Produced_by" : "Vijay Kiragandur",
+        "Actor" : "Yash",
+        "Actress" : "Srinidhi Shetty",
+        "Music_by" : "Ravi Basrur",
+        "Release_date" : "14 April 2022",
+        "Movie_photo" : "https://cinimirror.com/wp-content/uploads/2022/04/Screenshot_20220407-124510.jpg"
+    },
+    {
+        "Directed_by" : "Santhosh Ananddram",
+        "Produced_by" : "Jayanna Bhogendra",
+        "Actor" : "Yash",
+        "Actress" : "Radhika Pandit",
+        "Music_by" : "V. Harikrishna",
+        "Release_date" : "25 December 2014",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/d/d2/2014_Kannada_film_Mr._and_Mrs._Ramachari_poster.jpg"
+    },
+    {
+        "Directed_by" : "Guru Deshpande",
+        "Produced_by" : "K. Manju",
+        "Actor" : "Yash",
+        "Actress" : "Meghana Raj",
+        "Music_by" : "Hamsalekha",
+        "Release_date" : "1 November 2013",
+        "Movie_photo" : "https://wallpapers.oneindia.com/ph-1024x768/2013/10/raja-huli-wallpaper_1383118737110.jpg"
+    },
+    {
+        "Directed_by" : "Pradeep Raj",
+        "Produced_by" : "Sharavana Murthy",
+        "Actor" : "Yash",
+        "Actress" : "Oviya",
+        "Music_by" : "V. Manohar",
+        "Release_date" : "24 June 2011",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/a/a9/2011_Kannada_film_Kirathaka_poster.jpeg"
+    },
+    {
+        "Directed_by" : "Santhosh Ananddram",
+        "Produced_by" : "Vijay Kiragandur",
+        "Actor" : "Puneeth Rajkumar",
+        "Actress" : "Priya Anand",
+        "Music_by" : "V. Harikrishna",
+        "Release_date" : "24 March 2017",
+        "Movie_photo" : "https://bestoftheyear.in/wp-content/uploads/2017/06/Raajakumaraa-poster.jpg"
+    },
+    {
+        "Directed_by" : "Santhosh Ananddram",
+        "Produced_by" : "Vijay Kiragandur",
+        "Actor" : "Puneeth Rajkumar",
+        "Actress" : "Sayyeshaa",
+        "Music_by" : "Thaman S",
+        "Release_date" : "1 April 2021",
+        "Movie_photo" : "https://static.toiimg.com/thumb/msid-68387961,width-219,height-317,imgsize-84855/68387961.jpg"
+    },
+    {
+        "Directed_by" : "Tharun sudhir",
+        "Produced_by" : "Umapathy Srinivasa Gowda",
+        "Actor" : "Darshan",
+        "Actress" : "Asha Bhat",
+        "Music_by" : "Arjun Janya",
+        "Release_date" : "11 March 2021",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/0/06/Roberrt-movies-poster.jpg"
+    },
+    {
+        "Directed_by" : "V.Harikrishna",
+        "Produced_by" : "B. Suresha",
+        "Actor" : "Darshan",
+        "Actress" : "Rachita Ram",
+        "Music_by" : "V. Harikrishna",
+        "Release_date" : "26 January 2023",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/6/67/Kranti_film_poster.jpg"
+    },
+    {
+        "Directed_by" : "Anup Bhandari",
+        "Produced_by" : "Shalini Manjunath",
+        "Actor" : "Sudeepa",
+        "Actress" : "Neetha Ashok",
+        "Music_by" : "B. Ajaneesh Loknath",
+        "Release_date" : "26 January 2023",
+        "Movie_photo" : "https://upload.wikimedia.org/wikipedia/en/5/51/Vikrant_Rona.jpeg"
+    }
+
+    
+    
+    
+    
+]
